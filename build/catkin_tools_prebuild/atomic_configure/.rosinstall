@@ -1,0 +1,2 @@
+- setup-file:
+    local-name: /home/zhongli/catkin_ws_aptg/devel/.private/catkin_tools_prebuild/setup.sh

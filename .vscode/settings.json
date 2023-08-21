@@ -1,0 +1,15 @@
+{
+    "python.autoComplete.extraPaths": [
+        "/home/zhongli/catkin_ws_aptg/devel/lib/python2.7/dist-packages",
+        "/opt/ros/melodic/lib/python2.7/dist-packages"
+    ],
+    "python.analysis.extraPaths": [
+        "/home/zhongli/catkin_ws_aptg/devel/lib/python2.7/dist-packages",
+        "/opt/ros/melodic/lib/python2.7/dist-packages"
+    ],
+    "cmake.sourceDirectory": "/home/zhongli/catkin_ws_aptg/build/catkin_tools_prebuild",
+    "cSpell.words": [
+        "apriltag",
+        "imread"
+    ]
+}

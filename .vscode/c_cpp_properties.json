@@ -1,0 +1,26 @@
+{
+  "configurations": [
+    {
+      "browse": {
+        "databaseFilename": "${default}",
+        "limitSymbolsToIncludedHeaders": false
+      },
+      "includePath": [
+        "${workspaceFolder}/**",
+        "/home/zhongli/catkin_ws_aptg/devel/include/**",
+        "/opt/ros/melodic/include/**",
+        "/home/zhongli/catkin_ws_aptg/src/apriltag_ros/apriltag_ros/include/**",
+        "/home/zhongli/catkin_ws_aptg/apriltag/**",
+        "/usr/include/**"
+        
+      ],
+      "name": "ROS",
+      "intelliSenseMode": "gcc-x64",
+      "compilerPath": "/usr/bin/gcc",
+      "cStandard": "gnu11",
+      "compileCommands": "${workspaceFolder}/build/compile_commands.json",
+      "cppStandard": "c++14"
+    }
+  ],
+  "version": 4
+}

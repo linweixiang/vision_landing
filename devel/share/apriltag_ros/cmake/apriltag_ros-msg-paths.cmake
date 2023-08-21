@@ -1,0 +1,1 @@
+/home/zhongli/catkin_ws_aptg/devel/.private/apriltag_ros/share/apriltag_ros/cmake/apriltag_ros-msg-paths.cmake

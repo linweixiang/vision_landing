@@ -1,0 +1,1 @@
+/home/zhongli/catkin_ws_aptg/devel/.private/apriltag_ros/share/gennodejs/ros/apriltag_ros/_index.js

@@ -1,0 +1,2 @@
+- setup-file:
+    local-name: /home/zhongli/catkin_ws_aptg/devel/.private/apriltag_ros/setup.sh

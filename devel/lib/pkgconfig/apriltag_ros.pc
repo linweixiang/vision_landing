@@ -1,0 +1,1 @@
+/home/zhongli/catkin_ws_aptg/devel/.private/apriltag_ros/lib/pkgconfig/apriltag_ros.pc

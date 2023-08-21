@@ -1,0 +1,67 @@
+[
+{
+  "directory": "/home/zhongli/catkin_ws_aptg/build/apriltag_ros",
+  "command": "/usr/bin/c++ -DROSCONSOLE_BACKEND_LOG4CXX -DROS_BUILD_SHARED_LIBS=1 -DROS_PACKAGE_NAME=\\\"apriltag_ros\\\" -Dapriltag_ros_common_EXPORTS -I/home/zhongli/catkin_ws_aptg/devel/.private/apriltag_ros/include -I/home/zhongli/catkin_ws_aptg/src/apriltag_ros/apriltag_ros/include -I/opt/ros/melodic/include -I/opt/ros/melodic/share/xmlrpcpp/cmake/../../../include/xmlrpcpp -I/usr/include/opencv -I/usr/include/eigen3 -isystem /usr/local/include/opencv4 -isystem /home/zhongli/catkin_ws_aptg/devel/include -isystem /home/zhongli/catkin_ws_aptg/devel/include/apriltag -O3 -DNDEBUG -fPIC -O3 -funsafe-loop-optimizations -fsee -funroll-loops -fno-math-errno -funsafe-math-optimizations -ffinite-math-only -fno-signed-zeros -std=gnu++1z -o CMakeFiles/apriltag_ros_common.dir/src/common_functions.cpp.o -c /home/zhongli/catkin_ws_aptg/src/apriltag_ros/apriltag_ros/src/common_functions.cpp",
+  "file": "/home/zhongli/catkin_ws_aptg/src/apriltag_ros/apriltag_ros/src/common_functions.cpp"
+},
+{
+  "directory": "/home/zhongli/catkin_ws_aptg/build/apriltag_ros",
+  "command": "/usr/bin/c++ -DROSCONSOLE_BACKEND_LOG4CXX -DROS_BUILD_SHARED_LIBS=1 -DROS_PACKAGE_NAME=\\\"apriltag_ros\\\" -Dapriltag_ros_continuous_detector_EXPORTS -I/home/zhongli/catkin_ws_aptg/devel/.private/apriltag_ros/include -I/home/zhongli/catkin_ws_aptg/src/apriltag_ros/apriltag_ros/include -I/opt/ros/melodic/include -I/opt/ros/melodic/share/xmlrpcpp/cmake/../../../include/xmlrpcpp -I/usr/include/opencv -I/usr/include/eigen3 -isystem /usr/local/include/opencv4 -isystem /home/zhongli/catkin_ws_aptg/devel/include -isystem /home/zhongli/catkin_ws_aptg/devel/include/apriltag -O3 -DNDEBUG -fPIC -O3 -funsafe-loop-optimizations -fsee -funroll-loops -fno-math-errno -funsafe-math-optimizations -ffinite-math-only -fno-signed-zeros -std=gnu++1z -o CMakeFiles/apriltag_ros_continuous_detector.dir/src/continuous_detector.cpp.o -c /home/zhongli/catkin_ws_aptg/src/apriltag_ros/apriltag_ros/src/continuous_detector.cpp",
+  "file": "/home/zhongli/catkin_ws_aptg/src/apriltag_ros/apriltag_ros/src/continuous_detector.cpp"
+},
+{
+  "directory": "/home/zhongli/catkin_ws_aptg/build/apriltag_ros",
+  "command": "/usr/bin/c++ -DROSCONSOLE_BACKEND_LOG4CXX -DROS_BUILD_SHARED_LIBS=1 -DROS_PACKAGE_NAME=\\\"apriltag_ros\\\" -Dapriltag_ros_single_image_detector_EXPORTS -I/home/zhongli/catkin_ws_aptg/devel/.private/apriltag_ros/include -I/home/zhongli/catkin_ws_aptg/src/apriltag_ros/apriltag_ros/include -I/opt/ros/melodic/include -I/opt/ros/melodic/share/xmlrpcpp/cmake/../../../include/xmlrpcpp -I/usr/include/opencv -I/usr/include/eigen3 -isystem /usr/local/include/opencv4 -isystem /home/zhongli/catkin_ws_aptg/devel/include -isystem /home/zhongli/catkin_ws_aptg/devel/include/apriltag -O3 -DNDEBUG -fPIC -O3 -funsafe-loop-optimizations -fsee -funroll-loops -fno-math-errno -funsafe-math-optimizations -ffinite-math-only -fno-signed-zeros -std=gnu++1z -o CMakeFiles/apriltag_ros_single_image_detector.dir/src/single_image_detector.cpp.o -c /home/zhongli/catkin_ws_aptg/src/apriltag_ros/apriltag_ros/src/single_image_detector.cpp",
+  "file": "/home/zhongli/catkin_ws_aptg/src/apriltag_ros/apriltag_ros/src/single_image_detector.cpp"
+},
+{
+  "directory": "/home/zhongli/catkin_ws_aptg/build/apriltag_ros",
+  "command": "/usr/bin/c++ -DROSCONSOLE_BACKEND_LOG4CXX -DROS_BUILD_SHARED_LIBS=1 -DROS_PACKAGE_NAME=\\\"apriltag_ros\\\" -I/home/zhongli/catkin_ws_aptg/devel/.private/apriltag_ros/include -I/home/zhongli/catkin_ws_aptg/src/apriltag_ros/apriltag_ros/include -I/opt/ros/melodic/include -I/opt/ros/melodic/share/xmlrpcpp/cmake/../../../include/xmlrpcpp -I/usr/include/opencv -I/usr/include/eigen3 -isystem /usr/local/include/opencv4 -isystem /home/zhongli/catkin_ws_aptg/devel/include -isystem /home/zhongli/catkin_ws_aptg/devel/include/apriltag -O3 -DNDEBUG -O3 -funsafe-loop-optimizations -fsee -funroll-loops -fno-math-errno -funsafe-math-optimizations -ffinite-math-only -fno-signed-zeros -std=gnu++1z -o CMakeFiles/apriltag_ros_continuous_node.dir/src/apriltag_ros_continuous_node.cpp.o -c /home/zhongli/catkin_ws_aptg/src/apriltag_ros/apriltag_ros/src/apriltag_ros_continuous_node.cpp",
+  "file": "/home/zhongli/catkin_ws_aptg/src/apriltag_ros/apriltag_ros/src/apriltag_ros_continuous_node.cpp"
+},
+{
+  "directory": "/home/zhongli/catkin_ws_aptg/build/apriltag_ros",
+  "command": "/usr/bin/c++ -DROSCONSOLE_BACKEND_LOG4CXX -DROS_BUILD_SHARED_LIBS=1 -DROS_PACKAGE_NAME=\\\"apriltag_ros\\\" -I/home/zhongli/catkin_ws_aptg/devel/.private/apriltag_ros/include -I/home/zhongli/catkin_ws_aptg/src/apriltag_ros/apriltag_ros/include -I/opt/ros/melodic/include -I/opt/ros/melodic/share/xmlrpcpp/cmake/../../../include/xmlrpcpp -I/usr/include/opencv -I/usr/include/eigen3 -isystem /usr/local/include/opencv4 -isystem /home/zhongli/catkin_ws_aptg/devel/include -isystem /home/zhongli/catkin_ws_aptg/devel/include/apriltag -O3 -DNDEBUG -O3 -funsafe-loop-optimizations -fsee -funroll-loops -fno-math-errno -funsafe-math-optimizations -ffinite-math-only -fno-signed-zeros -std=gnu++1z -o CMakeFiles/apriltag_ros_single_image_server_node.dir/src/apriltag_ros_single_image_server_node.cpp.o -c /home/zhongli/catkin_ws_aptg/src/apriltag_ros/apriltag_ros/src/apriltag_ros_single_image_server_node.cpp",
+  "file": "/home/zhongli/catkin_ws_aptg/src/apriltag_ros/apriltag_ros/src/apriltag_ros_single_image_server_node.cpp"
+},
+{
+  "directory": "/home/zhongli/catkin_ws_aptg/build/apriltag_ros",
+  "command": "/usr/bin/c++ -DROSCONSOLE_BACKEND_LOG4CXX -DROS_BUILD_SHARED_LIBS=1 -DROS_PACKAGE_NAME=\\\"apriltag_ros\\\" -I/home/zhongli/catkin_ws_aptg/devel/.private/apriltag_ros/include -I/home/zhongli/catkin_ws_aptg/src/apriltag_ros/apriltag_ros/include -I/opt/ros/melodic/include -I/opt/ros/melodic/share/xmlrpcpp/cmake/../../../include/xmlrpcpp -I/usr/include/opencv -I/usr/include/eigen3 -isystem /usr/local/include/opencv4 -isystem /home/zhongli/catkin_ws_aptg/devel/include -isystem /home/zhongli/catkin_ws_aptg/devel/include/apriltag -O3 -DNDEBUG -O3 -funsafe-loop-optimizations -fsee -funroll-loops -fno-math-errno -funsafe-math-optimizations -ffinite-math-only -fno-signed-zeros -std=gnu++1z -o CMakeFiles/apriltag_ros_single_image_client_node.dir/src/apriltag_ros_single_image_client_node.cpp.o -c /home/zhongli/catkin_ws_aptg/src/apriltag_ros/apriltag_ros/src/apriltag_ros_single_image_client_node.cpp",
+  "file": "/home/zhongli/catkin_ws_aptg/src/apriltag_ros/apriltag_ros/src/apriltag_ros_single_image_client_node.cpp"
+},
+{
+  "directory": "/home/zhongli/catkin_ws_aptg/build/apriltag_ros/gtest/googlemock",
+  "command": "/usr/bin/c++ -DGTEST_CREATE_SHARED_LIBRARY=1 -Dgmock_EXPORTS -I/usr/src/googletest/googlemock/include -I/usr/src/googletest/googlemock -I/usr/src/googletest/googletest/include -I/usr/src/googletest/googletest -O3 -DNDEBUG -fPIC  -Wall -Wshadow -DGTEST_HAS_PTHREAD=1 -fexceptions -Wextra -Wno-unused-parameter -Wno-missing-field-initializers -std=gnu++1z -o CMakeFiles/gmock.dir/usr/src/googletest/googletest/src/gtest-all.cc.o -c /usr/src/googletest/googletest/src/gtest-all.cc",
+  "file": "/usr/src/googletest/googletest/src/gtest-all.cc"
+},
+{
+  "directory": "/home/zhongli/catkin_ws_aptg/build/apriltag_ros/gtest/googlemock",
+  "command": "/usr/bin/c++ -DGTEST_CREATE_SHARED_LIBRARY=1 -Dgmock_EXPORTS -I/usr/src/googletest/googlemock/include -I/usr/src/googletest/googlemock -I/usr/src/googletest/googletest/include -I/usr/src/googletest/googletest -O3 -DNDEBUG -fPIC  -Wall -Wshadow -DGTEST_HAS_PTHREAD=1 -fexceptions -Wextra -Wno-unused-parameter -Wno-missing-field-initializers -std=gnu++1z -o CMakeFiles/gmock.dir/src/gmock-all.cc.o -c /usr/src/googletest/googlemock/src/gmock-all.cc",
+  "file": "/usr/src/googletest/googlemock/src/gmock-all.cc"
+},
+{
+  "directory": "/home/zhongli/catkin_ws_aptg/build/apriltag_ros/gtest/googlemock",
+  "command": "/usr/bin/c++ -DGTEST_CREATE_SHARED_LIBRARY=1 -Dgmock_main_EXPORTS -I/usr/src/googletest/googlemock/include -I/usr/src/googletest/googlemock -I/usr/src/googletest/googletest/include -I/usr/src/googletest/googletest -O3 -DNDEBUG -fPIC  -Wall -Wshadow -DGTEST_HAS_PTHREAD=1 -fexceptions -Wextra -Wno-unused-parameter -Wno-missing-field-initializers -std=gnu++1z -o CMakeFiles/gmock_main.dir/usr/src/googletest/googletest/src/gtest-all.cc.o -c /usr/src/googletest/googletest/src/gtest-all.cc",
+  "file": "/usr/src/googletest/googletest/src/gtest-all.cc"
+},
+{
+  "directory": "/home/zhongli/catkin_ws_aptg/build/apriltag_ros/gtest/googlemock",
+  "command": "/usr/bin/c++ -DGTEST_CREATE_SHARED_LIBRARY=1 -Dgmock_main_EXPORTS -I/usr/src/googletest/googlemock/include -I/usr/src/googletest/googlemock -I/usr/src/googletest/googletest/include -I/usr/src/googletest/googletest -O3 -DNDEBUG -fPIC  -Wall -Wshadow -DGTEST_HAS_PTHREAD=1 -fexceptions -Wextra -Wno-unused-parameter -Wno-missing-field-initializers -std=gnu++1z -o CMakeFiles/gmock_main.dir/src/gmock-all.cc.o -c /usr/src/googletest/googlemock/src/gmock-all.cc",
+  "file": "/usr/src/googletest/googlemock/src/gmock-all.cc"
+},
+{
+  "directory": "/home/zhongli/catkin_ws_aptg/build/apriltag_ros/gtest/googlemock",
+  "command": "/usr/bin/c++ -DGTEST_CREATE_SHARED_LIBRARY=1 -Dgmock_main_EXPORTS -I/usr/src/googletest/googlemock/include -I/usr/src/googletest/googlemock -I/usr/src/googletest/googletest/include -I/usr/src/googletest/googletest -O3 -DNDEBUG -fPIC  -Wall -Wshadow -DGTEST_HAS_PTHREAD=1 -fexceptions -Wextra -Wno-unused-parameter -Wno-missing-field-initializers -std=gnu++1z -o CMakeFiles/gmock_main.dir/src/gmock_main.cc.o -c /usr/src/googletest/googlemock/src/gmock_main.cc",
+  "file": "/usr/src/googletest/googlemock/src/gmock_main.cc"
+},
+{
+  "directory": "/home/zhongli/catkin_ws_aptg/build/apriltag_ros/gtest/googlemock/gtest",
+  "command": "/usr/bin/c++ -DGTEST_CREATE_SHARED_LIBRARY=1 -Dgtest_EXPORTS -I/usr/src/googletest/googletest/include -I/usr/src/googletest/googletest -O3 -DNDEBUG -fPIC  -Wall -Wshadow -DGTEST_HAS_PTHREAD=1 -fexceptions -Wextra -Wno-unused-parameter -Wno-missing-field-initializers -std=gnu++1z -o CMakeFiles/gtest.dir/src/gtest-all.cc.o -c /usr/src/googletest/googletest/src/gtest-all.cc",
+  "file": "/usr/src/googletest/googletest/src/gtest-all.cc"
+},
+{
+  "directory": "/home/zhongli/catkin_ws_aptg/build/apriltag_ros/gtest/googlemock/gtest",
+  "command": "/usr/bin/c++ -DGTEST_CREATE_SHARED_LIBRARY=1 -Dgtest_main_EXPORTS -I/usr/src/googletest/googletest/include -I/usr/src/googletest/googletest -O3 -DNDEBUG -fPIC  -Wall -Wshadow -DGTEST_HAS_PTHREAD=1 -fexceptions -Wextra -Wno-unused-parameter -Wno-missing-field-initializers -std=gnu++1z -o CMakeFiles/gtest_main.dir/src/gtest_main.cc.o -c /usr/src/googletest/googletest/src/gtest_main.cc",
+  "file": "/usr/src/googletest/googletest/src/gtest_main.cc"
+}
+]

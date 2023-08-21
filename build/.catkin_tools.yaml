@@ -1,0 +1,6 @@
+devel_space: /home/zhongli/catkin_ws_aptg/devel
+install: false
+install_space: /home/zhongli/catkin_ws_aptg/install
+profile: default
+source_space: /home/zhongli/catkin_ws_aptg/src
+workspace: /home/zhongli/catkin_ws_aptg

@@ -1,0 +1,172 @@
+[
+{
+  "directory": "/home/zhongli/catkin_ws_aptg/build/apriltag",
+  "command": "/usr/bin/cc -Dapriltag_EXPORTS -I/home/zhongli/catkin_ws_aptg/src/apriltag -I/apriltag -O3 -DNDEBUG -fPIC -o CMakeFiles/apriltag.dir/apriltag.c.o -c /home/zhongli/catkin_ws_aptg/src/apriltag/apriltag.c",
+  "file": "/home/zhongli/catkin_ws_aptg/src/apriltag/apriltag.c"
+},
+{
+  "directory": "/home/zhongli/catkin_ws_aptg/build/apriltag",
+  "command": "/usr/bin/cc -Dapriltag_EXPORTS -I/home/zhongli/catkin_ws_aptg/src/apriltag -I/apriltag -O3 -DNDEBUG -fPIC -o CMakeFiles/apriltag.dir/apriltag_pose.c.o -c /home/zhongli/catkin_ws_aptg/src/apriltag/apriltag_pose.c",
+  "file": "/home/zhongli/catkin_ws_aptg/src/apriltag/apriltag_pose.c"
+},
+{
+  "directory": "/home/zhongli/catkin_ws_aptg/build/apriltag",
+  "command": "/usr/bin/cc -Dapriltag_EXPORTS -I/home/zhongli/catkin_ws_aptg/src/apriltag -I/apriltag -O3 -DNDEBUG -fPIC -o CMakeFiles/apriltag.dir/apriltag_quad_thresh.c.o -c /home/zhongli/catkin_ws_aptg/src/apriltag/apriltag_quad_thresh.c",
+  "file": "/home/zhongli/catkin_ws_aptg/src/apriltag/apriltag_quad_thresh.c"
+},
+{
+  "directory": "/home/zhongli/catkin_ws_aptg/build/apriltag",
+  "command": "/usr/bin/cc -Dapriltag_EXPORTS -I/home/zhongli/catkin_ws_aptg/src/apriltag -I/apriltag -O3 -DNDEBUG -fPIC -o CMakeFiles/apriltag.dir/common/g2d.c.o -c /home/zhongli/catkin_ws_aptg/src/apriltag/common/g2d.c",
+  "file": "/home/zhongli/catkin_ws_aptg/src/apriltag/common/g2d.c"
+},
+{
+  "directory": "/home/zhongli/catkin_ws_aptg/build/apriltag",
+  "command": "/usr/bin/cc -Dapriltag_EXPORTS -I/home/zhongli/catkin_ws_aptg/src/apriltag -I/apriltag -O3 -DNDEBUG -fPIC -o CMakeFiles/apriltag.dir/common/getopt.c.o -c /home/zhongli/catkin_ws_aptg/src/apriltag/common/getopt.c",
+  "file": "/home/zhongli/catkin_ws_aptg/src/apriltag/common/getopt.c"
+},
+{
+  "directory": "/home/zhongli/catkin_ws_aptg/build/apriltag",
+  "command": "/usr/bin/cc -Dapriltag_EXPORTS -I/home/zhongli/catkin_ws_aptg/src/apriltag -I/apriltag -O3 -DNDEBUG -fPIC -o CMakeFiles/apriltag.dir/common/homography.c.o -c /home/zhongli/catkin_ws_aptg/src/apriltag/common/homography.c",
+  "file": "/home/zhongli/catkin_ws_aptg/src/apriltag/common/homography.c"
+},
+{
+  "directory": "/home/zhongli/catkin_ws_aptg/build/apriltag",
+  "command": "/usr/bin/cc -Dapriltag_EXPORTS -I/home/zhongli/catkin_ws_aptg/src/apriltag -I/apriltag -O3 -DNDEBUG -fPIC -o CMakeFiles/apriltag.dir/common/image_u8.c.o -c /home/zhongli/catkin_ws_aptg/src/apriltag/common/image_u8.c",
+  "file": "/home/zhongli/catkin_ws_aptg/src/apriltag/common/image_u8.c"
+},
+{
+  "directory": "/home/zhongli/catkin_ws_aptg/build/apriltag",
+  "command": "/usr/bin/cc -Dapriltag_EXPORTS -I/home/zhongli/catkin_ws_aptg/src/apriltag -I/apriltag -O3 -DNDEBUG -fPIC -o CMakeFiles/apriltag.dir/common/image_u8x3.c.o -c /home/zhongli/catkin_ws_aptg/src/apriltag/common/image_u8x3.c",
+  "file": "/home/zhongli/catkin_ws_aptg/src/apriltag/common/image_u8x3.c"
+},
+{
+  "directory": "/home/zhongli/catkin_ws_aptg/build/apriltag",
+  "command": "/usr/bin/cc -Dapriltag_EXPORTS -I/home/zhongli/catkin_ws_aptg/src/apriltag -I/apriltag -O3 -DNDEBUG -fPIC -o CMakeFiles/apriltag.dir/common/image_u8x4.c.o -c /home/zhongli/catkin_ws_aptg/src/apriltag/common/image_u8x4.c",
+  "file": "/home/zhongli/catkin_ws_aptg/src/apriltag/common/image_u8x4.c"
+},
+{
+  "directory": "/home/zhongli/catkin_ws_aptg/build/apriltag",
+  "command": "/usr/bin/cc -Dapriltag_EXPORTS -I/home/zhongli/catkin_ws_aptg/src/apriltag -I/apriltag -O3 -DNDEBUG -fPIC -o CMakeFiles/apriltag.dir/common/matd.c.o -c /home/zhongli/catkin_ws_aptg/src/apriltag/common/matd.c",
+  "file": "/home/zhongli/catkin_ws_aptg/src/apriltag/common/matd.c"
+},
+{
+  "directory": "/home/zhongli/catkin_ws_aptg/build/apriltag",
+  "command": "/usr/bin/cc -Dapriltag_EXPORTS -I/home/zhongli/catkin_ws_aptg/src/apriltag -I/apriltag -O3 -DNDEBUG -fPIC -o CMakeFiles/apriltag.dir/common/pam.c.o -c /home/zhongli/catkin_ws_aptg/src/apriltag/common/pam.c",
+  "file": "/home/zhongli/catkin_ws_aptg/src/apriltag/common/pam.c"
+},
+{
+  "directory": "/home/zhongli/catkin_ws_aptg/build/apriltag",
+  "command": "/usr/bin/cc -Dapriltag_EXPORTS -I/home/zhongli/catkin_ws_aptg/src/apriltag -I/apriltag -O3 -DNDEBUG -fPIC -o CMakeFiles/apriltag.dir/common/pjpeg-idct.c.o -c /home/zhongli/catkin_ws_aptg/src/apriltag/common/pjpeg-idct.c",
+  "file": "/home/zhongli/catkin_ws_aptg/src/apriltag/common/pjpeg-idct.c"
+},
+{
+  "directory": "/home/zhongli/catkin_ws_aptg/build/apriltag",
+  "command": "/usr/bin/cc -Dapriltag_EXPORTS -I/home/zhongli/catkin_ws_aptg/src/apriltag -I/apriltag -O3 -DNDEBUG -fPIC -o CMakeFiles/apriltag.dir/common/pjpeg.c.o -c /home/zhongli/catkin_ws_aptg/src/apriltag/common/pjpeg.c",
+  "file": "/home/zhongli/catkin_ws_aptg/src/apriltag/common/pjpeg.c"
+},
+{
+  "directory": "/home/zhongli/catkin_ws_aptg/build/apriltag",
+  "command": "/usr/bin/cc -Dapriltag_EXPORTS -I/home/zhongli/catkin_ws_aptg/src/apriltag -I/apriltag -O3 -DNDEBUG -fPIC -o CMakeFiles/apriltag.dir/common/pnm.c.o -c /home/zhongli/catkin_ws_aptg/src/apriltag/common/pnm.c",
+  "file": "/home/zhongli/catkin_ws_aptg/src/apriltag/common/pnm.c"
+},
+{
+  "directory": "/home/zhongli/catkin_ws_aptg/build/apriltag",
+  "command": "/usr/bin/c++ -Dapriltag_EXPORTS -I/home/zhongli/catkin_ws_aptg/src/apriltag -I/apriltag -O3 -DNDEBUG -fPIC -o CMakeFiles/apriltag.dir/common/pthreads_cross.cpp.o -c /home/zhongli/catkin_ws_aptg/src/apriltag/common/pthreads_cross.cpp",
+  "file": "/home/zhongli/catkin_ws_aptg/src/apriltag/common/pthreads_cross.cpp"
+},
+{
+  "directory": "/home/zhongli/catkin_ws_aptg/build/apriltag",
+  "command": "/usr/bin/cc -Dapriltag_EXPORTS -I/home/zhongli/catkin_ws_aptg/src/apriltag -I/apriltag -O3 -DNDEBUG -fPIC -o CMakeFiles/apriltag.dir/common/string_util.c.o -c /home/zhongli/catkin_ws_aptg/src/apriltag/common/string_util.c",
+  "file": "/home/zhongli/catkin_ws_aptg/src/apriltag/common/string_util.c"
+},
+{
+  "directory": "/home/zhongli/catkin_ws_aptg/build/apriltag",
+  "command": "/usr/bin/cc -Dapriltag_EXPORTS -I/home/zhongli/catkin_ws_aptg/src/apriltag -I/apriltag -O3 -DNDEBUG -fPIC -o CMakeFiles/apriltag.dir/common/svd22.c.o -c /home/zhongli/catkin_ws_aptg/src/apriltag/common/svd22.c",
+  "file": "/home/zhongli/catkin_ws_aptg/src/apriltag/common/svd22.c"
+},
+{
+  "directory": "/home/zhongli/catkin_ws_aptg/build/apriltag",
+  "command": "/usr/bin/cc -Dapriltag_EXPORTS -I/home/zhongli/catkin_ws_aptg/src/apriltag -I/apriltag -O3 -DNDEBUG -fPIC -o CMakeFiles/apriltag.dir/common/time_util.c.o -c /home/zhongli/catkin_ws_aptg/src/apriltag/common/time_util.c",
+  "file": "/home/zhongli/catkin_ws_aptg/src/apriltag/common/time_util.c"
+},
+{
+  "directory": "/home/zhongli/catkin_ws_aptg/build/apriltag",
+  "command": "/usr/bin/cc -Dapriltag_EXPORTS -I/home/zhongli/catkin_ws_aptg/src/apriltag -I/apriltag -O3 -DNDEBUG -fPIC -o CMakeFiles/apriltag.dir/common/unionfind.c.o -c /home/zhongli/catkin_ws_aptg/src/apriltag/common/unionfind.c",
+  "file": "/home/zhongli/catkin_ws_aptg/src/apriltag/common/unionfind.c"
+},
+{
+  "directory": "/home/zhongli/catkin_ws_aptg/build/apriltag",
+  "command": "/usr/bin/cc -Dapriltag_EXPORTS -I/home/zhongli/catkin_ws_aptg/src/apriltag -I/apriltag -O3 -DNDEBUG -fPIC -o CMakeFiles/apriltag.dir/common/workerpool.c.o -c /home/zhongli/catkin_ws_aptg/src/apriltag/common/workerpool.c",
+  "file": "/home/zhongli/catkin_ws_aptg/src/apriltag/common/workerpool.c"
+},
+{
+  "directory": "/home/zhongli/catkin_ws_aptg/build/apriltag",
+  "command": "/usr/bin/cc -Dapriltag_EXPORTS -I/home/zhongli/catkin_ws_aptg/src/apriltag -I/apriltag -O3 -DNDEBUG -fPIC -o CMakeFiles/apriltag.dir/common/zarray.c.o -c /home/zhongli/catkin_ws_aptg/src/apriltag/common/zarray.c",
+  "file": "/home/zhongli/catkin_ws_aptg/src/apriltag/common/zarray.c"
+},
+{
+  "directory": "/home/zhongli/catkin_ws_aptg/build/apriltag",
+  "command": "/usr/bin/cc -Dapriltag_EXPORTS -I/home/zhongli/catkin_ws_aptg/src/apriltag -I/apriltag -O3 -DNDEBUG -fPIC -o CMakeFiles/apriltag.dir/common/zhash.c.o -c /home/zhongli/catkin_ws_aptg/src/apriltag/common/zhash.c",
+  "file": "/home/zhongli/catkin_ws_aptg/src/apriltag/common/zhash.c"
+},
+{
+  "directory": "/home/zhongli/catkin_ws_aptg/build/apriltag",
+  "command": "/usr/bin/cc -Dapriltag_EXPORTS -I/home/zhongli/catkin_ws_aptg/src/apriltag -I/apriltag -O3 -DNDEBUG -fPIC -o CMakeFiles/apriltag.dir/common/zmaxheap.c.o -c /home/zhongli/catkin_ws_aptg/src/apriltag/common/zmaxheap.c",
+  "file": "/home/zhongli/catkin_ws_aptg/src/apriltag/common/zmaxheap.c"
+},
+{
+  "directory": "/home/zhongli/catkin_ws_aptg/build/apriltag",
+  "command": "/usr/bin/cc -Dapriltag_EXPORTS -I/home/zhongli/catkin_ws_aptg/src/apriltag -I/apriltag -O3 -DNDEBUG -fPIC -o CMakeFiles/apriltag.dir/tag16h5.c.o -c /home/zhongli/catkin_ws_aptg/src/apriltag/tag16h5.c",
+  "file": "/home/zhongli/catkin_ws_aptg/src/apriltag/tag16h5.c"
+},
+{
+  "directory": "/home/zhongli/catkin_ws_aptg/build/apriltag",
+  "command": "/usr/bin/cc -Dapriltag_EXPORTS -I/home/zhongli/catkin_ws_aptg/src/apriltag -I/apriltag -O3 -DNDEBUG -fPIC -o CMakeFiles/apriltag.dir/tag25h9.c.o -c /home/zhongli/catkin_ws_aptg/src/apriltag/tag25h9.c",
+  "file": "/home/zhongli/catkin_ws_aptg/src/apriltag/tag25h9.c"
+},
+{
+  "directory": "/home/zhongli/catkin_ws_aptg/build/apriltag",
+  "command": "/usr/bin/cc -Dapriltag_EXPORTS -I/home/zhongli/catkin_ws_aptg/src/apriltag -I/apriltag -O3 -DNDEBUG -fPIC -o CMakeFiles/apriltag.dir/tag36h10.c.o -c /home/zhongli/catkin_ws_aptg/src/apriltag/tag36h10.c",
+  "file": "/home/zhongli/catkin_ws_aptg/src/apriltag/tag36h10.c"
+},
+{
+  "directory": "/home/zhongli/catkin_ws_aptg/build/apriltag",
+  "command": "/usr/bin/cc -Dapriltag_EXPORTS -I/home/zhongli/catkin_ws_aptg/src/apriltag -I/apriltag -O3 -DNDEBUG -fPIC -o CMakeFiles/apriltag.dir/tag36h11.c.o -c /home/zhongli/catkin_ws_aptg/src/apriltag/tag36h11.c",
+  "file": "/home/zhongli/catkin_ws_aptg/src/apriltag/tag36h11.c"
+},
+{
+  "directory": "/home/zhongli/catkin_ws_aptg/build/apriltag",
+  "command": "/usr/bin/cc -Dapriltag_EXPORTS -I/home/zhongli/catkin_ws_aptg/src/apriltag -I/apriltag -O3 -DNDEBUG -fPIC -o CMakeFiles/apriltag.dir/tagCircle21h7.c.o -c /home/zhongli/catkin_ws_aptg/src/apriltag/tagCircle21h7.c",
+  "file": "/home/zhongli/catkin_ws_aptg/src/apriltag/tagCircle21h7.c"
+},
+{
+  "directory": "/home/zhongli/catkin_ws_aptg/build/apriltag",
+  "command": "/usr/bin/cc -Dapriltag_EXPORTS -I/home/zhongli/catkin_ws_aptg/src/apriltag -I/apriltag -O3 -DNDEBUG -fPIC -o CMakeFiles/apriltag.dir/tagCircle49h12.c.o -c /home/zhongli/catkin_ws_aptg/src/apriltag/tagCircle49h12.c",
+  "file": "/home/zhongli/catkin_ws_aptg/src/apriltag/tagCircle49h12.c"
+},
+{
+  "directory": "/home/zhongli/catkin_ws_aptg/build/apriltag",
+  "command": "/usr/bin/cc -Dapriltag_EXPORTS -I/home/zhongli/catkin_ws_aptg/src/apriltag -I/apriltag -O3 -DNDEBUG -fPIC -o CMakeFiles/apriltag.dir/tagCustom48h12.c.o -c /home/zhongli/catkin_ws_aptg/src/apriltag/tagCustom48h12.c",
+  "file": "/home/zhongli/catkin_ws_aptg/src/apriltag/tagCustom48h12.c"
+},
+{
+  "directory": "/home/zhongli/catkin_ws_aptg/build/apriltag",
+  "command": "/usr/bin/cc -Dapriltag_EXPORTS -I/home/zhongli/catkin_ws_aptg/src/apriltag -I/apriltag -O3 -DNDEBUG -fPIC -o CMakeFiles/apriltag.dir/tagStandard41h12.c.o -c /home/zhongli/catkin_ws_aptg/src/apriltag/tagStandard41h12.c",
+  "file": "/home/zhongli/catkin_ws_aptg/src/apriltag/tagStandard41h12.c"
+},
+{
+  "directory": "/home/zhongli/catkin_ws_aptg/build/apriltag",
+  "command": "/usr/bin/cc -Dapriltag_EXPORTS -I/home/zhongli/catkin_ws_aptg/src/apriltag -I/apriltag -O3 -DNDEBUG -fPIC -o CMakeFiles/apriltag.dir/tagStandard52h13.c.o -c /home/zhongli/catkin_ws_aptg/src/apriltag/tagStandard52h13.c",
+  "file": "/home/zhongli/catkin_ws_aptg/src/apriltag/tagStandard52h13.c"
+},
+{
+  "directory": "/home/zhongli/catkin_ws_aptg/build/apriltag",
+  "command": "/usr/bin/cc  -I/home/zhongli/catkin_ws_aptg/src/apriltag -I/apriltag -O3 -DNDEBUG -o CMakeFiles/apriltag_demo.dir/example/apriltag_demo.c.o -c /home/zhongli/catkin_ws_aptg/src/apriltag/example/apriltag_demo.c",
+  "file": "/home/zhongli/catkin_ws_aptg/src/apriltag/example/apriltag_demo.c"
+},
+{
+  "directory": "/home/zhongli/catkin_ws_aptg/build/apriltag",
+  "command": "/usr/bin/c++  -I/home/zhongli/catkin_ws_aptg/src/apriltag -I/apriltag -isystem /usr/local/include/opencv4 -O3 -DNDEBUG -std=gnu++11 -o CMakeFiles/opencv_demo.dir/example/opencv_demo.cc.o -c /home/zhongli/catkin_ws_aptg/src/apriltag/example/opencv_demo.cc",
+  "file": "/home/zhongli/catkin_ws_aptg/src/apriltag/example/opencv_demo.cc"
+}
+]
